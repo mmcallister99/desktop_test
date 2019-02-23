@@ -1,0 +1,7 @@
+PersonA = (['Ford', 'Kia', 'Lexus'])
+PersonB = (['Toyota', 'Lexus', 'Chrysler'])
+
+ExampleA = PersonA.union(PersonB)
+print (ExampleA)
+ExampleB = PersonA.intersection(PersonB)
+
